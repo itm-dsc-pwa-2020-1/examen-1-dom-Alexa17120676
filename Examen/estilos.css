@@ -1,0 +1,146 @@
+			#cabeza{
+				background-color:black;
+				margin-top:0px;
+				padding: 0px;
+				height:100px;
+
+			}
+			#cabezaDark{
+				background-color:#908C8C;
+			}
+.logo{
+	height: 73px;
+	display: inline-block;
+	width: 20%;
+	margin-top: 25px;
+	margin-left: 50px;
+}
+.buscar{
+    margin-left: 100px;
+	margin-top: 0px;
+	display: inline-block;
+	width: 40%;
+	padding: 0px;
+						
+		}
+					#buscar{
+						margin-left: 100px;
+						margin-top: 0px;
+						display: inline-block;
+						width: 40%;
+						padding: 0px;
+						text-align:center;
+						color:white;	
+					}
+					#buscarDark{
+						margin-left: 100px;
+						margin-top: 0px;
+						display: inline-block;
+						width: 40%;
+						padding: 0px;
+						text-align:center;
+						color:black;	
+					}
+					#texto{
+						color:black;
+					}
+
+.menu{
+	margin-left: 100px;
+	display: inline-block;
+	width: 20%;
+	
+}
+
+					#allDark{
+						background-color: black;
+					}
+
+					#textoDark{
+						color:#908C8C;
+					}
+.cuentas{
+	display: inline-block;
+	width: 15%;
+	float: right;
+	margin-top: 25px;
+	
+}
+
+
+
+.cuerpo{
+	
+	margin-top: 10px;
+	
+}
+.imagen{
+	display: inline-block;
+
+	width: 60%;
+	margin-left: 200px;
+    margin-right: 10px;
+    display: inline;
+}
+.texto{
+	display: inline-block;
+	width: 40%;
+		margin-left: 40px;
+    margin-right: 10px;
+    margin-top: 0px;
+	
+}
+
+.redes{
+
+	margin-left: 10px;
+  	margin-right: auto;
+	width: 15%;
+}
+
+					#footer {
+					position: fixed;
+					left: 0;
+					bottom: 0;
+					width: 100%;
+					background-color: #DCD3D3;
+					color: white;
+					text-align: center;
+					}
+					#footerDark {
+						position: fixed;
+						left: 0;
+						bottom: 0;
+						width: 100%;
+						background-color: #908C8C;
+						color: black;
+						text-align: center;
+						}
+					
+.derechos{
+	text-align: right;
+}
+
+
+			#cuenta{
+				color:white;
+			}
+			#cuentaDark{
+				color:black;
+			}
+			#boton1{
+				background-color: pink;
+				color: white;
+			}
+			#boton1Dark{
+				background-color: #908C8C;
+				color: #black;
+			}
+			#boton2{
+				background-color: pink;
+				color: white;
+			}
+			#boton2Dark{
+				background-color: #908C8C;
+				color: #black;
+			}
